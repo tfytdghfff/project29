@@ -1,0 +1,18 @@
+body
+{
+background-color: bisque;
+font-family: cursive;
+}
+.copy_right_footer
+{
+    position: fixed;
+    color: darkmagenta;
+    background-color: rgb(147, 189, 231);
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    line-height: 2;
+    font-size: 15px;
+    letter-spacing: 1px;
+    text-shadow: 3px 3px 3px darkviolet ;
+}
